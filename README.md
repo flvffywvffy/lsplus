@@ -1,5 +1,6 @@
 # LeaderstatsPlus
 > I'm working on a new version of lsplus
+
 An easier way to create and manage leaderstats.
 
 ## Getting Started
